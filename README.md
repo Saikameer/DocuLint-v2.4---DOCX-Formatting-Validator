@@ -1,5 +1,16 @@
-# DOCX Formatting Standards Validator (Python Local Tool)
+# DOCX Formatting Standards Validator 
+## Run Locally
 
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
+
+## Python Local Tool
 This folder contains a complete, working Python-based implementation of the DOCX Formatting Standards Validator. It features a Flask backend and a modern web dashboard.
 
 ---
