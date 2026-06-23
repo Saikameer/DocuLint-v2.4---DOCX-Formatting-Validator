@@ -1,0 +1,6 @@
+{
+  "name": "DOCX Formatting Validator",
+  "description": "Scan and validate DOCX files for compliance with formatting standards, of heading and body text styling, run-level properties, alignments, and indentations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
