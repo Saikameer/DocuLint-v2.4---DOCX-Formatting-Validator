@@ -61,17 +61,21 @@ pip install Flask python-docx lxml
    ```bash
    python app.py
    ```
+   or
+   ```bash
+   py app.py
+   ```
 
-2. Open your web browser and navigate to:
+3. Open your web browser and navigate to:
    ```
    http://127.0.0.1:5000
    ```
 
-3. Enter the paths:
+4. Enter the paths:
    - **Target Scanning Directory**: The absolute path to the directory containing your `.docx` files.
    - **Output Directory**: (Optional) Path to save the extracted JSON and CSV reports.
 
-4. Click **Run Analysis** to scan and validate documents instantly.
+5. Click **Run Analysis** to scan and validate documents instantly.
 
 ---
 
